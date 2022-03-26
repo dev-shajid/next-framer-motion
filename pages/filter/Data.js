@@ -1,0 +1,49 @@
+const Data = [
+    {
+        title:"phone",
+        image: "/images/mobile-1.jpg",
+        id:1
+    },
+    {
+        title:"leptop",
+        image:"/images/leptop-1.jpg",
+        id:2
+    },
+    {
+        title:"watch",
+        image:"/images/watch-1.jpg",
+        id:3
+    },
+    {
+        title:"phone",
+        image:"/images/mobile-2.jpg",
+        id:4
+    },
+    {
+        title:"watch",
+        image:"/images/watch-2.jpg",
+        id:5
+    },
+    {
+        title:"leptop",
+        image:"/images/leptop-2.jpg",
+        id:6
+    },
+    {
+        title:"watch",
+        image:"/images/watch-3.jpg",
+        id:7
+    },
+    {
+        title:"leptop",
+        image:"/images/leptop-3.jpg",
+        id:8
+    },
+    {
+        title:"phone",
+        image:"/images/mobile-3.jpg",
+        id:9
+    },
+]
+
+export default Data
