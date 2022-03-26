@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import Data from "./car/Data";
+import Data from "../components/CarData";
 import styles from '../styles/Cars.module.css'
 import { motion } from "framer-motion";
 import { gridAnimation, cardAnimation, h3Animation } from "../components/Animations";
