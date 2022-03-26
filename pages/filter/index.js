@@ -1,6 +1,6 @@
 import {useState} from 'react'
 import styles from '../../styles/Filter.module.css';
-import Data from './Data'
+import Data from '../../components/FilterData'
 import { motion } from "framer-motion";
 import { AnimatePresence } from 'framer-motion';
 import NProgress from 'nprogress'

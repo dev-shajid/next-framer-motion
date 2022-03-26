@@ -1,5 +1,5 @@
 import React, {useEffect} from "react";
-import Data from "./Data";
+import Data from "../../components/CarData";
 import { MdKeyboardBackspace } from "react-icons/md";
 import { motion } from "framer-motion";
 import { carAnimation } from "../../components/Animations";
